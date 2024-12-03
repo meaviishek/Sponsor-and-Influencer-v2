@@ -1,0 +1,10 @@
+Flask
+Flask-RESTful
+Flask-JWT-Extended
+Flask-CORS
+Flask-SQLAlchemy
+Flask-Migrate
+bcrypt
+PyJWT
+celery
+redis
